@@ -1,0 +1,14 @@
+.text-muted {
+  color: rgba(255, 255, 255, 0.65) !important;
+}
+
+.small {
+  color: rgba(255, 255, 255, 0.8) !important;
+}
+
+p,
+label,
+h5,
+h6 {
+  color: rgba(255, 255, 255, 0.9);
+}
